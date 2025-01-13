@@ -79,5 +79,4 @@ This project demonstrates the use of HTML, CSS, Bootstrap Icons, and custom styl
 
 ---
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+Feel free to use and modify the code as needed.
